@@ -5,13 +5,13 @@ This work supported the research paper "Essays on Land Reform, Inequality, and E
 
 This project culminates in an **interactive RShiny application** that allows for visual exploration of this data.
 
-## 🚀 Live Interactive Demo
+## Live Interactive Demo
 
 This application is hosted publicly on `shinyapps.io`. The dashboard allows for dynamic exploration of historical demographic and inequality data across Egypt's districts and years.
 
 **[Click here to view the live application](https://hobbit-joufflu.shinyapps.io/PSE_Research_Project/)**
 
-## 🔑 Key Contributions & Methodology
+## Key Contributions & Methodology
 
 My role was to transform heterogeneous raw data into a structured format ready for econometric analysis.
 
@@ -26,7 +26,7 @@ The `app.R` file creates the interactive dashboard, which allows users to:
 * **Display `ggplot2` charts** showing time-series trends or variable comparisons.
 * **Export** all visualizations as `.png` files.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Language:** R, Python
 * **Data Analysis (R):** `dplyr`, `tidyr`, `readxl`, `stringr`
